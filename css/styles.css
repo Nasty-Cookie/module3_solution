@@ -40,7 +40,11 @@ body {
   margin-top: -30px;
 }
 
-h1, h3{
+h1{
+  text-align: left;
+}
+
+h2, h3{
   text-align: center;
 }
 
